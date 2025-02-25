@@ -5,7 +5,7 @@
   
 - 🔭 My Portfolio: **https://jdvpreddy.github.io/**
 
-- 📄 My Resume: **https://drive.google.com/file/d/1F-nfWPjPNBDZJtlEQajq7erTulu0yXn3/view?usp=share_link**
+- 📄 My Resume: **https://drive.google.com/file/d/141O-Jl-ltUXN2uBvmYSPGpMeZW94XyRt/view?usp=share_link**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jdvpreddy](https://github.com/jdvpreddy)
 
